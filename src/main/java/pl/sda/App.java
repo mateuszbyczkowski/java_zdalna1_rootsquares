@@ -9,12 +9,12 @@ public class App {
     public static void main(String[] args) {
         System.out.println("Proszę podać kolejno trzy liczby calkowite, oddzielone przecinkiem np. 1,2,3");
         Scanner reader = new Scanner(System.in);
-        String line = reader.nextLine();
+        String nextLine = reader.nextLine();
 
         double[] abc;
 
         try {
-            abc = cleanAndConvertToDoubleArray(line);
+            abc = cleanAndConvertToDoubleArray(nextLine);
         } catch (NumberFormatException ex) {
             System.out.println("Podales literki zamiast cyferek :)");
             return;
