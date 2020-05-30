@@ -1,0 +1,6 @@
+liczbaskuterow=5
+skuter1,czerwony,po4123z,wypozyczony
+skuter1,czerwony,po4123z,wypozyczony
+skuter1,czerwony,po4123z,wypozyczony
+skuter1,czerwony,po4123z,wypozyczony
+skuter1,czerwony,po4123z,dostepny

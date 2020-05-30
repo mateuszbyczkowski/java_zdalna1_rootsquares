@@ -1,0 +1,9 @@
+<HTML>
+
+<BODY>
+
+<H1>Witam serdecznie SUPER KURS!</H1><P>To jest PLIK tekstowy</P>
+
+<H5>Witam serdecznie SUPER KURS!</H5><DIV>To jest PLIK tekstowy</DIV>
+</BODY>
+</HTML>
